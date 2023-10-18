@@ -20,18 +20,7 @@
   box-sizing: border-box;
   font-family: "montserrat", sans-serif;
 }
-.toggle-button {
-  margin-left: 20px;
-  background: #333;
-  color: #fff;
-  padding: 5px 10px;
-  border: none;
-  cursor: pointer;
-}
 
-.toggle-button:hover {
-  background: #555;
-}
 
 input:not([type="radio"]):not([type="checkbox"]),
 button {
