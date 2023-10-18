@@ -1,6 +1,6 @@
-# Vue.js To-Do List
+# To-Do List using Vue.js 
 
-![Screenshot of Vue.js To-Do List](./screenshot.png)
+![Screenshot of Vue.js To-Do List](./screenshots/Screenshot.png)
 
 ## Description
 
@@ -41,9 +41,9 @@ This is a simple and user-friendly to-do list web application built with Vue.js.
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/screenshot1.png)
+![Screenshot 1](./screenshots/Screenshot1.png)
 
-![Screenshot 2](./screenshots/screenshot2.png)
+![Screenshot 2](./screenshots/Screenshot2.png)
 
 ## Credits
 
